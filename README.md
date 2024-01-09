@@ -2,6 +2,10 @@
 
 Welcome to Alarmify, an interactive web-based alarm clock application that provides a visually appealing and user-friendly experience for managing alarms.
 
+## Demo
+
+Check out the live demo [here](https://soft-stardust-4d0197.netlify.app/).
+
 ## Features
 
 - **Real-time Clock Display:** View the current time with traditional clock hands.
